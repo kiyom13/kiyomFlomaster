@@ -15,7 +15,7 @@ g.fillRect(0,0,d.width,d.height);
 g.setColor(Color.black);
 g.setFont(f);
 drawCenteredString("16130567"
-  + "Khayriddinov Kiyomiddin Firdavsovich"
+  + "Khayriddinov Kiyomidd Khayriddinov Kiyomiddin Firdavsovichin Firdavsovich"
   + "16130163"
   + "16130029", d.width, d.height, g);
 g.drawRect(0,0,d.width-1,d.height-1);
